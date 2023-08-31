@@ -1,13 +1,3 @@
-1. Buat branch baru: git checkout -b nama_branch_baru
-2. Sebelum memulai coding, usahakan Git pull origin main
-3. Lalu kalau mau commit.
-git add .
-git commit -m "test"
-git push origin nama_branch_baru
-
-Jangan pakai branch main, branch main buat menyatukan commit antara branch fai-home dan nama_branch_baru saja.
-
-
 ------------------------------------------------------------------------------------
 
 tbl_pengajuan_kredit.keterangan_pengajuan[
